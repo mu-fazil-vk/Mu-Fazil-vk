@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Fazil vk</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fazil-vk&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mu-fazil-vk&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mu_fazil_vk" target="blank"><img src="https://img.shields.io/twitter/follow/mu_fazil_vk?logo=twitter&style=for-the-badge" alt="mu_fazil_vk" /></a> </p>
 
-- 🔭 I’m currently working on [Elsa wa-bot](https://github.com/Fazil-vk/whatsapp-bot)
+- 🔭 I’m currently working on [Elsa wa-bot](https://github.com/mu-Fazil-vk/whatsapp-bot)
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [Here](https://fazil-vk.epizy.com/?i=2)
+- 👨‍💻 All of my projects are available at [Here](https://mu-fazil-vk.epizy.com/?i=2)
 
 - 💬 Ask me about **Flutter, Python and C**
 
 - 📫 How to reach me **[Instagram](https://instagram.com/mu.fazil_vk)**
 
-- 📄 Know about my [experiences](https://fazil-vk.epizy.com/?i=2)
+- 📄 Know about my [experiences](https://mu-fazil-vk.epizy.com/?i=2)
 
 - ⚡ Fun fact **I think I am funny 😉**
 
@@ -35,30 +35,30 @@
 <br>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazil-vk&show_icons=true&locale=en&layout=compact" alt="fazil-vk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu-fazil-vk&show_icons=true&locale=en&layout=compact" alt="fazil-vk" />
 </p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazil-vk&show_icons=true&locale=en" alt="fazil-vk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-fazil-vk&show_icons=true&locale=en" alt="fazil-vk" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazil-vk&" alt="fazil-vk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mu-fazil-vk&" alt="fazil-vk" /></p>
 <br>
 
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=fazil-vk)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=mu-fazil-vk)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/fazil-vk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndia)
+![Metrics](https://metrics.lecoq.io/mu-fazil-vk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndia)
   
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=fazil-vk&repo=whatsapp-bot)](https://github.com/fazil-vk/whatsapp-bot)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=whatsapp-bot)](https://github.com/mu-fazil-vk/whatsapp-bot)
 
 </details>
