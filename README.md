@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/mu_fazil_vk" target="blank"><img src="https://img.shields.io/twitter/follow/mu_fazil_vk?logo=twitter&style=for-the-badge" alt="mu_fazil_vk" /></a> </p>
 
-- 🔭 I’m currently working on [wa-news-md](https://github.com/mu-Fazil-vk/wa-news-md)
+- 🔭 I’m currently working on SManager
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [Here](https://fazilvk.me/)
 
-- 💬 Ask me about **Flutter, Nodejs and C**
+- 💬 Ask me about **Flutter, Nodejs and Python**
 
 - 📫 Connect with me **[Instagram](https://instagram.com/fazil.v.k)**
 
