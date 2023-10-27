@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mu_fazil_vk" target="blank"><img src="https://img.shields.io/twitter/follow/mu_fazil_vk?logo=twitter&style=for-the-badge" alt="mu_fazil_vk" /></a> </p>
 
-- 🔭 I’m currently working on SManager
+- 🔭 I’m currently working on **SManager**
 
 - 🌱 I’m currently learning **Kotlin**
 
