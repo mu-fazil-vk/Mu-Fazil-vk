@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fazil vk</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
-<p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mu-fazil-vk/&title=Profile%20Views&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vk" /> </p>
+<!-- <p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mu-fazil-vk/&title=Profile%20Views&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vk" /> </p> -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mu-fazil-vk/count.svg" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/mu_fazil_vk" target="blank"><img src="https://img.shields.io/twitter/follow/mu_fazil_vk?logo=twitter&style=for-the-badge" alt="mu_fazil_vk" /></a> </p>
 
