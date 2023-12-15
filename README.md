@@ -49,12 +49,12 @@
 <br>
 
 <p>
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-fazil-vk&show_icons=true&theme=radical" alt="fazil-vk" />
+ <img align="center" src="https://fazil-stats.vercel.app/api?username=mu-fazil-vk&show_icons=true&hide=issues,prs&rank_icon=github&theme=radical#gh-dark-mode-only" alt="fazil-vk" />
 </p> 
-<br> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu-fazil-vk&show_icons=true&layout=compact&theme=nightowl" alt="fazil-vk" /></p>
 <br> 
+
+<!-- <p>&nbsp;<img align="center" src="https://fazil-stats.vercel.app/api/top-langs?username=mu-fazil-vk&show_icons=true&card_width=400&layout=compact&theme=nightowl&langs_count=10&hide=jupyter%20notebook" alt="fazil-vk" /></p>
+<br> -->
 
 ![Fazil vk](https://raw.githubusercontent.com/mu-fazil-vk/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <br>
@@ -77,6 +77,6 @@
 <!-- ![Metrics](https://metrics.lecoq.io/mu-fazil-vk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndia) -->
   
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=whatsapp-bot)](https://github.com/mu-fazil-vk/whatsapp-bot)
+[![News](https://fazil-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=cookify-readme&theme=dark)](https://github.com/mu-fazil-vk/cookify-readme)
 
 </details>
