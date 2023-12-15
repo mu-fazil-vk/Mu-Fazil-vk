@@ -56,7 +56,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu-fazil-vk&show_icons=true&layout=compact&theme=nightowl" alt="fazil-vk" /></p>
 <br> 
 
-![Fazil vk](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+![Fazil vk](https://raw.githubusercontent.com/mu-fazil-vk/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <br>
 
 
