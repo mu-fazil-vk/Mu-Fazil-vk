@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mu_fazil_vk" target="blank"><img src="https://img.shields.io/twitter/follow/mu_fazil_vk?logo=twitter&style=for-the-badge" alt="mu_fazil_vk" /></a> </p>
 
-- 🔭 I’m currently working on **SManager**
+- 🔭 I’m currently working on **easeDuty**
 
 - 🌱 I’m currently learning **Kotlin**
 
@@ -21,7 +21,12 @@
 
 - 📄 Know about my [experiences](https://fazilvk.me/)
 
-- ⚡ Fun fact **I like coding more than I like you 😜**
+<br/>
+<blockquote>
+  <p>"I like my phone, my computer works just fine, my calculator is perfect, but Lord, I miss my mind!"</p>
+  <p align="right">- Unknown</p>
+</blockquote>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,7 +59,7 @@
 <br> 
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu-fazil-vk&show_icons=true&card_width=400&layout=compact&theme=nightowl&langs_count=10&hide=jupyter%20notebook" alt="fazil-vk" /></p>
-<br> -->
+<br>
 
 <!-- ![Fazil vk](https://raw.githubusercontent.com/mu-fazil-vk/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 <br>
@@ -77,6 +82,6 @@
 <!-- ![Metrics](https://metrics.lecoq.io/mu-fazil-vk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndia) -->
   
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=cookify-readme&theme=dark)](https://github.com/mu-fazil-vk/cookify-readme)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=Elixr-AI-Info&theme=dark)](https://github.com/mu-fazil-vk/cookify-readme)
 
 </details>
