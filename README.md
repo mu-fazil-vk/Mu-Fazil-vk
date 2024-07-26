@@ -30,9 +30,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mu_fazil_vk" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="mu_fazil_vk" height="54" width="54" /></a>
+<p align="left">
+<a href="https://t.me/fazilvk" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-software-wikipedia-2.png" alt="mu_fazil_vk" height="40" width="40" /></a>   
 <a href="https://instagram.com/fazil.v.k" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="fazil.v.k" height="54" width="54" /></a>
-<a href="mailto:fazilvk6@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png" alt="Fazil vk" height="50" width="50" /></a>
+<a href="mailto:fazilvk6@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" alt="Fazil vk" height="40" width="40" /></a>
 
 <p align="left"
 
