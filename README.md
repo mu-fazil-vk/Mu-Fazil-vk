@@ -83,6 +83,6 @@
 <!-- ![Metrics](https://metrics.lecoq.io/mu-fazil-vk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndia) -->
   
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=Elixr-AI-Info&theme=dark)](https://github.com/mu-fazil-vk/cookify-readme)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=FluxTube&theme=dark)](https://github.com/mu-fazil-vk/FluxTube)
 
 </details>
