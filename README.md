@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazil vk</h1>
-<h3 align="center">A passionate app developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <!-- <p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mu-fazil-vk/&title=Profile%20Views&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vk" /> </p> -->
 <p align="center"> 
@@ -7,19 +7,19 @@
   <img src="https://profile-counter.glitch.me/mu-fazil-vk/count.svg" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/mu_fazil_vk" target="blank"><img src="https://img.shields.io/twitter/follow/mu_fazil_vk?logo=twitter&style=for-the-badge" alt="mu_fazil_vk" /></a> </p>
+<p align="center"> <img alt="GitHub followers - Fazil vk" src="https://img.shields.io/github/followers/mu-fazil-vk?style=social&link=https%3A%2F%2Fgithub.com%2Fmu-fazil-vk"></p>
 
-- 🔭 I’m currently working on **easeDuty**
+- 🔭 I’m currently working on **FluxTube**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [Here](https://fazilvk.me/)
+- 👨‍💻 All of my projects are available at [Here](https://fazilvk.netlify.app)
 
 - 💬 Ask me about **Flutter, Nodejs and Python**
 
 - 📫 Connect with me **[Instagram](https://instagram.com/fazil.v.k)**
 
-- 📄 Know about my [experiences](https://fazilvk.me/)
+- 📄 Know about my [experiences](https://fazilvk.netlify.app)
 
 <br/>
 <blockquote>
