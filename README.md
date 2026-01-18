@@ -2,10 +2,10 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <!-- <p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mu-fazil-vk/&title=Profile%20Views&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vk" /> </p> -->
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mu-fazil-vk/count.svg" />
-</p>
+</p> -->
 
 <p align="center"> <img alt="GitHub followers - Fazil vk" src="https://img.shields.io/github/followers/mu-fazil-vk?style=social&link=https%3A%2F%2Fgithub.com%2Fmu-fazil-vk"></p>
 
