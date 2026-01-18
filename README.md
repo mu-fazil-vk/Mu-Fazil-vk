@@ -193,28 +193,6 @@ Quote: "I miss my mind more than my bugs!"
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/muhammed-fazil-vk" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/fazil.v.k" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://t.me/fazilvk" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:fazilvk6@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://fazilvk.netlify.app" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" height="40" width="40" />
-</a>
-
-<br/><br/>
-
 <!-- Support -->
 <a href="https://www.buymeacoffee.com/fazilvk">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
