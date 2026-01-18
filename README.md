@@ -1,97 +1,233 @@
-<h1 align="center">Hi 👋, I'm Fazil vk</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
 
-<!-- <p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mu-fazil-vk/&title=Profile%20Views&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vk" /> </p> -->
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mu-fazil-vk/count.svg" />
-</p> -->
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=6366f1&height=200&section=header&text=Fazil%20VK&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=AI%20•%20Full%20Stack%20Developer%20•%20Flutter&descAlignY=75&descSize=16"/>
 
-<p align="center"> <img alt="GitHub followers - Fazil vk" src="https://img.shields.io/github/followers/mu-fazil-vk?style=social&link=https%3A%2F%2Fgithub.com%2Fmu-fazil-vk"></p>
-
-- 🔭 I’m currently working on **FluxTube**
-
-- 🌱 I’m currently learning **AI**
-
-- 👨‍💻 All of my projects are available at [Here](https://fazilvk.netlify.app)
-
-- 💬 Ask me about **Flutter, Nodejs and Python**
-
-- 📫 Connect with me **[Instagram](https://instagram.com/fazil.v.k)**
-
-- 📄 Know about my [experiences](https://fazilvk.netlify.app)
+<!-- Typing Effect -->
+<a href="https://github.com/mu-fazil-vk">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hey+%F0%9F%91%8B%2C+I'm+Fazil;Building+FluxTube+%F0%9F%8E%B5;Flutter+%7C+Node.js+%7C+Python;Open+Source+Enthusiast+%F0%9F%92%9C" alt="Typing SVG" />
+</a>
 
 <br/>
-<blockquote>
-  <p>"I like my phone, my computer works just fine, my calculator is perfect, but Lord, I miss my mind!"</p>
-  <p align="right">- Unknown</p>
-</blockquote>
 
+<!-- Quick Stats Badges -->
+<a href="https://github.com/mu-fazil-vk">
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-6366f1?style=flat-square" alt="Focus"/>
+</a>
+<a href="https://fazilvk.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-fazilvk.netlify.app-6366f1?style=flat-square" alt="Portfolio"/>
+</a>
+<img src="https://img.shields.io/badge/Location-India%20🇮🇳-6366f1?style=flat-square" alt="Location"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<p align="left">
-<a href="https://t.me/fazilvk" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-software-wikipedia-2.png" alt="mu_fazil_vk" height="40" width="40" /></a>   
-<a href="https://instagram.com/fazil.v.k" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="fazil.v.k" height="54" width="54" /></a>
-<a href="mailto:fazilvk6@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" alt="Fazil vk" height="40" width="40" /></a>
+<br/><br/>
 
-<p align="left"
+<!-- Profile Stats Row -->
+<img src="https://komarev.com/ghpvc/?username=mu-fazil-vk&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/mu-fazil-vk?tab=followers">
+  <img src="https://img.shields.io/github/followers/mu-fazil-vk?style=flat-square&color=6366f1&labelColor=1a1b27&label=Followers" alt="Followers"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/github/stars/mu-fazil-vk?style=flat-square&color=6366f1&labelColor=1a1b27&label=Stars" alt="Stars"/>
 
-<a href="https://linkedin.com/in/muhammed-fazil-vk" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-25.png" alt="Fazil vk" height="46" width="170"/></a>
+</div>
 
-<!-- </p>
-<p align="left">
-<a href="https://instagram.com/mu.fazil_vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mu.fazil_vk" height="30" width="40" /></a>
-<a href="https://twitter.com/mu_fazil_vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mu_fazil_vk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed-fazil-vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-fazil-vk" height="30" width="40" /></a>
-<a href="https://fb.com/muhammedfazilvkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammedfazilvkk" height="30" width="40" /></a>
-</p> --> 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/f/48/firebase.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://langchain.com" target="_blank" rel="noreferrer"> <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" alt="LangChain" width="60" /> </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://unpkg.com/@lobehub/icons-static-svg@1.30.0/icons/huggingface-color.svg" alt="Huggingface" width="40" height="40" /> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="github" width="40" height="40" /> </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40" /> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vs-code" width="40" height="40" /> </a>
-</p>
+<img src="./assets/divider.gif" width="100%"/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fazilvk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fazilvk" /></a></p><br><br>
-<br>
+<br/>
 
-<p>
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-fazil-vk&show_icons=true&hide=issues,prs&rank_icon=github&theme=radical#gh-dark-mode-only" alt="fazil-vk" /> -->
-  <img align="center" src="https://raw.githubusercontent.com/mu-fazil-vk/stats/master/generated/overview.svg#gh-dark-mode-only" alt="fazil-vk" />
-</p> 
-<br> 
+## <img src="./assets/lightning.gif" width="25"/> Quick Facts
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu-fazil-vk&show_icons=true&card_width=400&layout=compact&theme=nightowl&langs_count=10&hide=jupyter%20notebook" alt="fazil-vk" /></p>
-<br>
+<img align="right" src="./assets/coding.gif" width="300"/>
 
-<!-- ![Fazil vk](https://raw.githubusercontent.com/mu-fazil-vk/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
-<br>
+```yaml
+Name: Fazil VK
+From: India 🇮🇳
+Role: AI Engineer + Full Stack Developer
 
+Currently:
+  → Maintaining FluxTube (YouTube App Client)
+  → AI & Machine Learning Dev
+  → Open to collaborations
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mu-fazil-vk&show_icons=true&theme=radical" alt="fazil-vk" /></p>
-<br>
+Stack: RAG | Flutter | Node.js | Python | Firebase
 
+Quote: "I miss my mind more than my bugs!"
+```
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<br clear="right"/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=mu-fazil-vk)
+<br/>
 
-</details>
+<img src="./assets/divider.gif" width="100%"/>
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+<br/>
 
-<!-- ![Metrics](https://metrics.lecoq.io/mu-fazil-vk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FIndia) -->
-  
+## <img src="./assets/tools.gif" width="25"/> Tech Arsenal
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=FluxTube&theme=dark)](https://github.com/mu-fazil-vk/FluxTube)
+<div align="center">
 
-</details>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,firebase,mongodb,express,react,kotlin&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=gcp,linux,git,vscode,androidstudio,postman,sqlite,heroku&theme=dark" />
+
+<br/><br/>
+
+**`🤖 AI/ML Stack`**
+
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+<a href="https://huggingface.co/"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" width="55" height="55" /></a>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48" />
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.gif" width="100%"/>
+
+<br/>
+
+## <img src="./assets/chart.gif" width="25"/> GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/mu-fazil-vk">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mu-fazil-vk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&ring_color=6366f1" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu-fazil-vk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mu-fazil-vk">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mu-fazil-vk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mu-fazil-vk">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mu-fazil-vk&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.gif" width="100%"/>
+
+<br/>
+
+## <img src="./assets/rocket.gif" width="25"/> Featured Project
+
+<div align="center">
+
+<a href="https://github.com/mu-fazil-vk/FluxTube">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=FluxTube&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="FluxTube"/>
+</a>
+
+[![Download](https://img.shields.io/badge/⬇️_Download-FluxTube-6366f1?style=for-the-badge)](https://github.com/mu-fazil-vk/FluxTube/releases)
+[![Stars](https://img.shields.io/github/stars/mu-fazil-vk/FluxTube?style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/mu-fazil-vk/FluxTube)
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.gif" width="100%"/>
+
+<br/>
+
+## <img src="./assets/trophy.gif" width="25"/> Achievements
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=mu-fazil-vk&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.gif" width="100%"/>
+
+<br/>
+
+## <img src="./assets/handshake.gif" width="25"/> Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammed-fazil-vk" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/fazil.v.k" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://t.me/fazilvk" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:fazilvk6@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://fazilvk.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/muhammed-fazil-vk" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/fazil.v.k" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/fazilvk" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:fazilvk6@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://fazilvk.netlify.app" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" height="40" width="40" />
+</a>
+
+<br/><br/>
+
+<!-- Support -->
+<a href="https://www.buymeacoffee.com/fazilvk">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+</a>
+
+<br/><br/>
+
+<!-- Random Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
