@@ -114,8 +114,8 @@ Quote: "I miss my mind more than my bugs!"
 <div align="center">
 
 <a href="https://github.com/mu-fazil-vk">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mu-fazil-vk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&ring_color=6366f1" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu-fazil-vk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img height="180" src="https://github.com/mu-fazil-vk/stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"/>
+  <img height="180" src="https://github.com/mu-fazil-vk/stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
 </a>
 
 <br/><br/>
