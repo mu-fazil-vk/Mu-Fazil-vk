@@ -69,14 +69,7 @@ Quote: "I miss my mind more than my bugs!"
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,docker,github,mysql&theme=dark" />
 
 <br/>
 
@@ -90,20 +83,20 @@ Quote: "I miss my mind more than my bugs!"
 
 **`🤖 AI/ML Stack`**
 
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-<a href="https://huggingface.co/"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" width="55" height="55" /></a>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch&theme=dark" />
 
 <br/>
 
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
-
-<br/>
 
 <img src="./assets/divider.gif" width="100%"/>
 
