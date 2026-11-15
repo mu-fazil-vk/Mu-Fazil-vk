@@ -107,20 +107,20 @@ Quote: "I miss my mind more than my bugs!"
 <div align="center">
 
 <a href="https://github.com/mu-fazil-vk">
-  <img height="180" src="https://github.com/mu-fazil-vk/stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"/>
-  <img height="180" src="https://github.com/mu-fazil-vk/stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mu-fazil-vk&theme=github_dark" alt="GitHub Stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mu-fazil-vk&theme=github_dark" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/mu-fazil-vk">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mu-fazil-vk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=mu-fazil-vk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/mu-fazil-vk">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mu-fazil-vk&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  <img width="100%" src="https://ghchart.rshah.org/6366f1/mu-fazil-vk" alt="Contribution Graph"/>
 </a>
 
 </div>
@@ -135,9 +135,18 @@ Quote: "I miss my mind more than my bugs!"
 
 <div align="center">
 
+### [FluxTube](https://github.com/mu-fazil-vk/FluxTube)
+
+A privacy-friendly YouTube client for Android: no ads, no account, no Google services.
+
 <a href="https://github.com/mu-fazil-vk/FluxTube">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mu-fazil-vk&repo=FluxTube&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="FluxTube"/>
+  <img width="30%" src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/home.jpg" alt="FluxTube Home"/>
+  <img width="30%" src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/watch.jpg" alt="FluxTube Watch"/>
+  <img width="30%" src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/shorts.jpg" alt="FluxTube Shorts"/>
 </a>
+
+[![Release](https://img.shields.io/github/v/release/mu-fazil-vk/FluxTube?style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/mu-fazil-vk/FluxTube/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/mu-fazil-vk/FluxTube/total?style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/mu-fazil-vk/FluxTube/releases)
 
 [![Download](https://img.shields.io/badge/⬇️_Download-FluxTube-6366f1?style=for-the-badge)](https://github.com/mu-fazil-vk/FluxTube/releases)
 [![Stars](https://img.shields.io/github/stars/mu-fazil-vk/FluxTube?style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/mu-fazil-vk/FluxTube)
