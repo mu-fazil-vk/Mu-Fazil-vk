@@ -1,40 +1,11 @@
-<div align="center">
+<img src="./assets/banner.svg" width="100%" alt="Fazil VK, AI Engineer and Full-stack Developer, building FluxTube"/>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=6366f1&height=200&section=header&text=Fazil%20VK&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=AI%20•%20Full%20Stack%20Developer%20•%20Flutter&descAlignY=75&descSize=16"/>
-
-<!-- Typing Effect -->
-<a href="https://github.com/mu-fazil-vk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hey+%F0%9F%91%8B%2C+I'm+Fazil;Building+FluxTube+%F0%9F%8E%B5;Flutter+%7C+Node.js+%7C+Python;Open+Source+Enthusiast+%F0%9F%92%9C" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Quick Stats Badges -->
-<a href="https://github.com/mu-fazil-vk">
-  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-6366f1?style=flat-square" alt="Focus"/>
-</a>
-<a href="https://fazilvk.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-fazilvk.netlify.app-6366f1?style=flat-square" alt="Portfolio"/>
-</a>
-<img src="https://img.shields.io/badge/Location-India%20🇮🇳-6366f1?style=flat-square" alt="Location"/>
-
-<br/><br/>
-
-<!-- Profile Stats Row -->
-<img src="https://komarev.com/ghpvc/?username=mu-fazil-vk&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/mu-fazil-vk?tab=followers">
-  <img src="https://img.shields.io/github/followers/mu-fazil-vk?style=flat-square&color=6366f1&labelColor=1a1b27&label=Followers" alt="Followers"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/github/stars/mu-fazil-vk?style=flat-square&color=6366f1&labelColor=1a1b27&label=Stars" alt="Stars"/>
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.gif" width="100%"/>
+<p align="center">
+  <a href="https://fazilvk.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/muhammed-fazil-vk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/fazilvk"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:fazilvk6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 <br/>
 
@@ -61,153 +32,54 @@ Quote: "I miss my mind more than my bugs!"
 
 <br/>
 
-<img src="./assets/divider.gif" width="100%"/>
+<br/>
+
+## <img src="./assets/tools.gif" width="26"/> Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,py,nodejs,express,mongodb,firebase&theme=dark" alt="Flutter, Dart, Kotlin, Python, Node.js, Express, MongoDB, Firebase"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,aws,docker,linux,git,androidstudio&theme=dark" alt="TensorFlow, PyTorch, Google Cloud, AWS, Docker, Linux, Git, Android Studio"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/RAG-6366f1?style=flat-square" alt="RAG"/>
+</p>
 
 <br/>
 
-## <img src="./assets/tools.gif" width="25"/> Tech Arsenal
+## <img src="./assets/rocket.gif" width="26"/> FluxTube
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/mu-fazil-vk/FluxTube"><img src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/home.jpg" width="32%" alt="FluxTube home"/></a>
+  <a href="https://github.com/mu-fazil-vk/FluxTube"><img src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/watch.jpg" width="32%" alt="FluxTube watch"/></a>
+  <a href="https://github.com/mu-fazil-vk/FluxTube"><img src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/shorts.jpg" width="32%" alt="FluxTube Shorts"/></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=py,js,java,cpp,docker,github,mysql&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,firebase,mongodb,express,react,kotlin&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=gcp,linux,git,vscode,androidstudio,postman,sqlite,heroku&theme=dark" />
-
-<br/><br/>
-
-**`🤖 AI/ML Stack`**
+<p align="center">
+  <a href="https://github.com/mu-fazil-vk/FluxTube/releases/latest"><img src="https://img.shields.io/badge/⬇_Download-FluxTube-6366f1?style=for-the-badge" alt="Download FluxTube"/></a>
+  <a href="https://github.com/mu-fazil-vk/FluxTube/stargazers"><img src="https://img.shields.io/github/stars/mu-fazil-vk/FluxTube?style=for-the-badge&color=6366f1&labelColor=0d1117" alt="Stars"/></a>
+  <a href="https://github.com/mu-fazil-vk/FluxTube/releases"><img src="https://img.shields.io/github/downloads/mu-fazil-vk/FluxTube/total?style=for-the-badge&color=6366f1&labelColor=0d1117" alt="Downloads"/></a>
+</p>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch&theme=dark" />
+## <img src="./assets/chart.gif" width="26"/> GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mu-fazil-vk&theme=github_dark" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mu-fazil-vk&theme=github_dark" alt="Top languages"/>
+</p>
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=mu-fazil-vk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub streak"/>
+</p>
 
 <br/>
 
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/fazilvk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="44" alt="Buy Me A Coffee"/></a>
+</p>
 
-</div>
-
-<img src="./assets/divider.gif" width="100%"/>
-
-<br/>
-
-## <img src="./assets/chart.gif" width="25"/> GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/mu-fazil-vk">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mu-fazil-vk&theme=github_dark" alt="GitHub Stats"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mu-fazil-vk&theme=github_dark" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/mu-fazil-vk">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mu-fazil-vk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/mu-fazil-vk">
-  <img width="100%" src="https://ghchart.rshah.org/6366f1/mu-fazil-vk" alt="Contribution Graph"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.gif" width="100%"/>
-
-<br/>
-
-## <img src="./assets/rocket.gif" width="25"/> Featured Project
-
-<div align="center">
-
-### [FluxTube](https://github.com/mu-fazil-vk/FluxTube)
-
-A privacy-friendly YouTube client for Android: no ads, no account, no Google services.
-
-<a href="https://github.com/mu-fazil-vk/FluxTube">
-  <img width="30%" src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/home.jpg" alt="FluxTube Home"/>
-  <img width="30%" src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/watch.jpg" alt="FluxTube Watch"/>
-  <img width="30%" src="https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/screenshots/shorts.jpg" alt="FluxTube Shorts"/>
-</a>
-
-[![Release](https://img.shields.io/github/v/release/mu-fazil-vk/FluxTube?style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/mu-fazil-vk/FluxTube/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/mu-fazil-vk/FluxTube/total?style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/mu-fazil-vk/FluxTube/releases)
-
-[![Download](https://img.shields.io/badge/⬇️_Download-FluxTube-6366f1?style=for-the-badge)](https://github.com/mu-fazil-vk/FluxTube/releases)
-[![Stars](https://img.shields.io/github/stars/mu-fazil-vk/FluxTube?style=for-the-badge&color=6366f1&labelColor=0d1117)](https://github.com/mu-fazil-vk/FluxTube)
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.gif" width="100%"/>
-
-<br/>
-
-## <img src="./assets/trophy.gif" width="25"/> Achievements
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=mu-fazil-vk&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.gif" width="100%"/>
-
-<br/>
-
-## <img src="./assets/handshake.gif" width="25"/> Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/muhammed-fazil-vk" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/fazil.v.k" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://t.me/fazilvk" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:fazilvk6@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://fazilvk.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<!-- Support -->
-<a href="https://www.buymeacoffee.com/fazilvk">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-</a>
-
-<br/><br/>
-
-<!-- Random Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-
-</div>
-
-<br/>
-
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
